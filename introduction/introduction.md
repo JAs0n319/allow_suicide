@@ -1,0 +1,1 @@
+Allow player suicide without op
