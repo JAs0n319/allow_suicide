@@ -1,0 +1,14 @@
+{
+	"id": "allow_suicide",
+	"version": "1.0.0",
+	"name": "allow_suicide",
+	"description": {
+		"en_us": "allow player suicide with no op",
+		"zh_cn": "允许玩家在没有op权限时自杀"
+	},
+	"dependencies": {
+		"mcdreforged": ">=2.1.0"
+	},
+	"author": "JAs0n",
+    "link": "https://github.com/JAs0n319/allow_suicide"
+}
