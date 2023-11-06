@@ -9,6 +9,9 @@
 	"dependencies": {
 		"mcdreforged": ">=2.1.0"
 	},
-	"author": "JAs0n",
+	"author": [
+		"JAs0n",
+		"yuyi2439"
+	],
     "link": "https://github.com/JAs0n319/allow_suicide"
 }
